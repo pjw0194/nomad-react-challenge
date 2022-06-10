@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/nomad-react-challenge/static/js/main.eecb939b.js",
+    "index.html": "/nomad-react-challenge/index.html",
+    "main.eecb939b.js.map": "/nomad-react-challenge/static/js/main.eecb939b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.eecb939b.js"
+  ]
+}
