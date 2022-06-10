@@ -224,7 +224,7 @@ function Coin() {
             </Header>
             <Description>
               {infoData?.description
-                ? infoData?.description.slice(0, 500)
+                ? infoData?.description.slice(0, 230)
                 : ". . ."}
             </Description>
             <Overview>

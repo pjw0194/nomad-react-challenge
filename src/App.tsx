@@ -1,5 +1,4 @@
 import React from "react";
-import { useQuery } from "react-query";
 import { createGlobalStyle, ThemeProvider } from "styled-components";
 import { darkTheme, lightTheme } from "./theme";
 import { isDarkAtom } from "./atom";
